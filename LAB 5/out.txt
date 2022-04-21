@@ -1,0 +1,50 @@
+Bitcoin:	$39,227.93 USD
+Ethereum:	$2,600.65 USD
+Tether:	$1.01 USD
+BNB:	$371.90 USD
+USD Coin:	$1.00 USD
+XRP:	$0.7899 USD
+Terra:	needs manual extraction
+Cardano:	$0.8225 USD
+Solana:	$81.84 USD
+Avalanche:	$71.24 USD
+Binance USD:	$0.9998 USD
+Polkadot:	needs manual extraction
+Dogecoin:	$0.116 USD
+TerraUSD:	$1.00 USD
+Shiba Inu:	$0.00002279 USD
+Polygon:	$1.42 USD
+Wrapped Bitcoin:	$39,487.55 USD
+Dai:	needs manual extraction
+Cronos:	needs manual extraction
+Cosmos:	$27.68 USD
+Litecoin:	$106.33 USD
+NEAR Protocol:	$10.53 USD
+Chainlink:	$13.35 USD
+TRON:	$0.05998 USD
+Uniswap:	$8.56 USD
+FTX Token:	$40.94 USD
+UNUS SED LEO:	$5.82 USD
+Bitcoin Cash:	$290.59 USD
+Algorand:	$0.709 USD
+Stellar:	$0.1858 USD
+Decentraland:	$2.36 USD
+Bitcoin BEP2:	$38,914.60 USD
+Hedera:	$0.2074 USD
+Ethereum Classic:	$26.42 USD
+Internet Computer:	$16.31 USD
+Monero:	$184.60 USD
+The Sandbox:	$2.83 USD
+Filecoin:	$17.91 USD
+Elrond:	needs manual extraction
+Fantom:	$1.19 USD
+VeChain:	$0.04702 USD
+Waves:	$27.14 USD
+Klaytn:	$1.10 USD
+Axie Infinity:	$47.11 USD
+Theta Network:	$2.80 USD
+Tezos:	$3.05 USD
+Helium:	$21.44 USD
+Zcash:	$151.70 USD
+THORChain:	$6.57 USD
+IOTA:	$0.7032 USD
